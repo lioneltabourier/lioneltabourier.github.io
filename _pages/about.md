@@ -7,7 +7,7 @@ subtitle: <a href='https://www.lip6.fr/?LANG=en'>LIP6</a> (Sorbonne Université/
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 25-26/304</p>
     <p>4 Place Jussieu</p>
