@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Lionel Tabourier webpage # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Lionel
 middle_name: 
 last_name: Tabourier
-email: firstname-dot-lastname-at-lip6-dot-fr
+email: #firstname-dot-lastname-at-lip6-dot-fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -28,7 +28,7 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: moltac # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
