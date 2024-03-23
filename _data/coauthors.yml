@@ -2,7 +2,12 @@
   - firstname: ["Pedro", "P."]
     url: https://medialab.sciencespo.fr/equipe/pedro-ramaciotti-morales/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"magnien":
+  - firstname: ["Clémence", "C."]
+    url: https://lip6.fr/Clemence.Magnien/
+
+"latapy":
+  - firstname: ["Matthieu", "M."]
+    url: https://lip6.fr/Matthieu.Latapy/
+
 
