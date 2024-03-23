@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #<a href='https://www.lip6.fr/?LANG=en'>LIP6</a>. 
+subtitle: Lionel Tabourier's webpage #<a href='https://www.lip6.fr/?LANG=en'>LIP6</a>. 
 
 profile:
   align: right
@@ -13,9 +13,9 @@ profile:
     <p>4 Place Jussieu</p>
     <p>75005, Paris, France</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 I am currently an associate professor in Computer Science in the <a href='https://www.complexnetworks.fr/'>Complex Networks team</a> of the <a href='https://www.lip6.fr/?LANG=en'>LIP6</a> (<a href='https://www.sorbonne-universite.fr/en'>Sorbonne Université</a>/<a href='https://www.cnrs.fr/en'>CNRS</a>).
