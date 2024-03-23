@@ -1,6 +1,10 @@
 "ramaciotti":
   - firstname: ["Pedro", "P."]
     url: https://medialab.sciencespo.fr/equipe/pedro-ramaciotti-morales/
+    
+"ramaciotti morales":
+  - firstname: ["Pedro", "P."]
+    url: https://medialab.sciencespo.fr/equipe/pedro-ramaciotti-morales/
 
 "magnien":
   - firstname: ["Clémence", "Clemence", "C."]
