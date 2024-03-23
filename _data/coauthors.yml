@@ -3,11 +3,29 @@
     url: https://medialab.sciencespo.fr/equipe/pedro-ramaciotti-morales/
 
 "magnien":
-  - firstname: ["Clémence", "C."]
+  - firstname: ["Clémence", "Clemence", "C."]
     url: https://lip6.fr/Clemence.Magnien/
 
 "latapy":
   - firstname: ["Matthieu", "M."]
     url: https://lip6.fr/Matthieu.Latapy/
 
-
+"cassells":
+  - firstname: ["Duncan", "D."]
+    url: https://fr.linkedin.com/in/duncan-cassells
+    
+"lecuyer":
+  - firstname: ["Fabrice", "F."]
+    url: https://fabrice.lecuyer.me/
+    
+"jachiet":
+  - firstname: ["Louis", "L."]
+    url: https://louis.jachiet.com/
+    
+"baudin":
+  - firstname: ["Alexis", "A."]
+    url: https://a-baudin.github.io/
+    
+"lamarche-perrin":
+  - firstname: ["Robin", "R."]
+    url: https://rzine.fr/authors/rlamarcheperrin/
