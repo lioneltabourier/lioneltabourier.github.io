@@ -1,23 +1,16 @@
 {
-  "basics": {
+  "essential": {
     "name": "Lionel Tabourier",
-    "label": "",
-    "image": "",
+    "position": "Associate Professor in Computer Science",
+    "institution": "LIP6 (Sorbonne University/CNRS)",
     "email": "firsname.lastname@labname.fr",
     "phone": "(+33) 1 44 27 87 92",
-      "location": {
+    "address": {
       "office": "25-26/304" ,	  
       "address": "4 Place Jussieu",
       "postalCode": "75252",
       "city": "Paris",
-      "countryCode": "France",
+      "countryCode": "France"
     },
   },
-  "work": [
-    {
-      "name": "LIP6 (Sorbonne University/CNRS)",
-      "position": "Associate Professor in Computer Science",
-      "url": "https://example.com",
-    }
-  ] 
 }

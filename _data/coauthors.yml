@@ -34,8 +34,8 @@
   - firstname: ["Robin", "R."]
     url: https://rzine.fr/authors/rlamarcheperrin/
     
-"fournier s'niehotta":
-  - firstname: ["Raphael", "Raphaël", "R."]
+"fournier-s'niehotta":
+  - firstname: ["Raphael", "Raphaël", "Rapha, "R."]
     url: http://raphael.fournier-sniehotta.fr/
     
 "tarissan":
@@ -49,3 +49,27 @@
 "lambiotte":
   - firstname: ["Renaud", "R."]
     url: https://www.maths.ox.ac.uk/people/renaud.lambiotte
+    
+"libert":
+  - firstname: ["Anne-Sophie", "A.S."] 
+    url: https://researchportal.unamur.be/fr/persons/aslibert
+    
+"delvenne":
+  - firstname: ["Jean-Charles", "J.C."]
+    url: https://perso.uclouvain.be/jean-charles.delvenne/welcome.html
+    
+"peruani":
+  - firstname: ["Fernando", "F."]
+    url: https://perso.u-cergy.fr/~pmperuani/
+    
+"mitra":
+  - firstname: ["Bivas", "B."]
+    url: https://cse.iitkgp.ac.in/~bivasm/
+    
+"roth":
+  - firstname: ["Camille", C.]
+    url: https://cmb.hu-berlin.de/fr/lequipe/profil/camille-roth
+    
+"cointet":
+  - firstname: ["Jean-Philippe", J.P.]
+    url: https://medialab.sciencespo.fr/equipe/jean-philippe-cointet/
