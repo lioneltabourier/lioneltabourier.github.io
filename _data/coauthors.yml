@@ -67,9 +67,29 @@
     url: https://cse.iitkgp.ac.in/~bivasm/
     
 "roth":
-  - firstname: ["Camille", C.]
+  - firstname: ["Camille", "C."]
     url: https://cmb.hu-berlin.de/fr/lequipe/profil/camille-roth
     
 "cointet":
-  - firstname: ["Jean-Philippe", J.P.]
+  - firstname: ["Jean-Philippe", "J.P."]
     url: https://medialab.sciencespo.fr/equipe/jean-philippe-cointet/
+    
+"lim":
+  - firstname: ["Keun-Woo", "K.W."]
+    url: https://fr.linkedin.com/in/keun-woo-lim-a09699a3
+    
+"secci":
+  - firstname: ["Stefano", "S."]
+    url: http://cedric.cnam.fr/~seccis/
+    
+"le grand":
+  - firstname: ["Bénédicte", "Benedicte", "B."]
+    url: https://www.pantheonsorbonne.fr/page-perso/blegrand
+    
+"henriet":
+  - firstname: ["Fanny", "F."]
+    url: https://sites.google.com/site/fannyhenriet/
+    
+"hallegatte":
+  - firstname: ["Stéphane"; "Stephane", "S."]
+    url: https://www.banquemondiale.org/fr/about/people/s/stephane-hallegatte
