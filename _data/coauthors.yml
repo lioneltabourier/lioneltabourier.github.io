@@ -41,5 +41,11 @@
 "tarissan":
   - firstname: ["Fabien", "F."]
     url: https://isp.cnrs.fr/project/fabien-tarissan/
-    
-    
+
+"prieur":
+  - firstname: ["Christophe", "C."]
+    url: https://pagespro.univ-gustave-eiffel.fr/christophe-prieur
+
+"lambiotte":
+  - firstname: ["Renaud", "R."]
+    url: https://www.maths.ox.ac.uk/people/renaud.lambiotte
