@@ -3,7 +3,7 @@
   contents:
     - name: Full Name
       value: Lionel Tabourier
-    - name: Institution
+    - name: Laboratory
       value: LIP6 (Sorbonne Université/CNRS)
     - name: Address
       value: Office 25-26/304 - 4 Place Jussieu, Paris (France)
@@ -15,7 +15,7 @@
 - title: Programs
   type: map
   contents:
-    - name: Probabilistic k-swap source code in python (with J. Karadayi)
+    - name: Probabilistic k-swap source code in python
       value: <a href="https://gitlab.lip6.fr/tabourier/code-pks-generation">On LIP6 GitLab</a>
     - name: Deterministic k-swap source code in Ocaml 
       value: <a href="https://archive.softwareheritage.org/browse/origin/https://bitbucket.org/tabourier/k-edge-switching/src/master/directory/">On Software Heritage</a>
