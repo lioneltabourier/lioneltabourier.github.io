@@ -1,22 +1,24 @@
-- title: General Information
+- title: Contact Information
   type: map
   contents:
     - name: Full Name
       value: Lionel Tabourier
+    - name: Institution
+      value: LIP6 (Sorbonne Université/CNRS)
+    - name: Address
+      value: Office 25-26/304 - 4 Place Jussieu, Paris (France)
+    - name: email
+      value: firstname.lastname@labname.fr
     - name: Languages
       value: French (native), English (fluent)
 
-- title: Education
-  type: time_table
+- title: Programs
+  type: map
   contents:
-    - title: Habilitation (HDR)
-      institution: Sorbonne University
-      year: 2018
-      description: From a static to a dynamic analysis of complex networks
-    - title: PhD
-      institution: University Pierre and Marie Curie (Now SU)
-      year: 2010
-      description: Comparison method of complex graphs topologies applied to social networks analysis
-
-
+    - name: Probabilistic k-swap source code in python (with J. Karadayi)
+      value: <a href="https://gitlab.lip6.fr/tabourier/code-pks-generation">On LIP6 GitLab</a>
+    - name: Deterministic k-swap source code in Ocaml 
+      value: <a href="https://archive.softwareheritage.org/browse/origin/https://bitbucket.org/tabourier/k-edge-switching/src/master/directory/">On Software Heritage</a>
+    - name: Rankmerging source code in Ocaml 
+      value: <a href="https://archive.softwareheritage.org/browse/origin/https://bitbucket.org/tabourier/rankmerging/src/master/directory/">On Software Heritage</a>
 
