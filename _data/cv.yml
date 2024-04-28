@@ -11,6 +11,8 @@
       value: firstname.lastname@labname.fr
     - name: Languages
       value: French (native), English (fluent)
+    - name: Google Scholar Profile
+      value: <a href="https://scholar.google.fr/citations?user=CleppTYAAAAJ&hl=fr&oi=ao">On Google Scholar</a>
 
 - title: Programs
   type: map
