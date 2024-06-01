@@ -1,34 +1,95 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"ramaciotti":
+  - firstname: ["Pedro", "P."]
+    url: https://medialab.sciencespo.fr/equipe/pedro-ramaciotti-morales/
+    
+"ramaciotti morales":
+  - firstname: ["Pedro", "P."]
+    url: https://medialab.sciencespo.fr/equipe/pedro-ramaciotti-morales/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"magnien":
+  - firstname: ["Clémence", "Clemence", "C."]
+    url: https://lip6.fr/Clemence.Magnien/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"latapy":
+  - firstname: ["Matthieu", "M."]
+    url: https://lip6.fr/Matthieu.Latapy/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"cassells":
+  - firstname: ["Duncan", "D."]
+    url: https://fr.linkedin.com/in/duncan-cassells
+    
+"lecuyer":
+  - firstname: ["Fabrice", "F."]
+    url: https://fabrice.lecuyer.me/
+    
+"jachiet":
+  - firstname: ["Louis", "L."]
+    url: https://louis.jachiet.com/
+    
+"baudin":
+  - firstname: ["Alexis", "A."]
+    url: https://a-baudin.github.io/
+    
+"lamarche-perrin":
+  - firstname: ["Robin", "R."]
+    url: https://rzine.fr/authors/rlamarcheperrin/
+    
+"fournier-s'niehotta":
+  - firstname: ["Raphael", "Raphaël", "R."]
+    url: http://raphael.fournier-sniehotta.fr/
+    
+"tarissan":
+  - firstname: ["Fabien", "F."]
+    url: https://isp.cnrs.fr/project/fabien-tarissan/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"prieur":
+  - firstname: ["Christophe", "C."]
+    url: https://pagespro.univ-gustave-eiffel.fr/christophe-prieur
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"lambiotte":
+  - firstname: ["Renaud", "R."]
+    url: https://www.maths.ox.ac.uk/people/renaud.lambiotte
+    
+"libert":
+  - firstname: ["Anne-Sophie", "A.S."] 
+    url: https://researchportal.unamur.be/fr/persons/aslibert
+    
+"delvenne":
+  - firstname: ["Jean-Charles", "J.C."]
+    url: https://perso.uclouvain.be/jean-charles.delvenne/welcome.html
+    
+"peruani":
+  - firstname: ["Fernando", "F."]
+    url: https://perso.u-cergy.fr/~pmperuani/
+    
+"mitra":
+  - firstname: ["Bivas", "B."]
+    url: https://cse.iitkgp.ac.in/~bivasm/
+    
+"roth":
+  - firstname: ["Camille", "C."]
+    url: https://cmb.hu-berlin.de/fr/lequipe/profil/camille-roth
+    
+"cointet":
+  - firstname: ["Jean-Philippe", "J.P."]
+    url: https://medialab.sciencespo.fr/equipe/jean-philippe-cointet/
+    
+"lim":
+  - firstname: ["Keun-Woo", "K.W."]
+    url: https://fr.linkedin.com/in/keun-woo-lim-a09699a3
+    
+"secci":
+  - firstname: ["Stefano", "S."]
+    url: http://cedric.cnam.fr/~seccis/
+    
+"le grand":
+  - firstname: ["Bénédicte", "Benedicte", "B."]
+    url: https://www.pantheonsorbonne.fr/page-perso/blegrand
+    
+"henriet":
+  - firstname: ["Fanny", "F."]
+    url: https://sites.google.com/site/fannyhenriet/
+    
+"hallegatte":
+  - firstname: ["Stéphane", "Stephane", "S."]
+    url: https://www.banquemondiale.org/fr/about/people/s/stephane-hallegatte
