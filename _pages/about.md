@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 25-26/304</p>
+    <p>Office 26-00/312</p>
     <p>4 Place Jussieu</p>
     <p>75005, Paris, France</p>
 
